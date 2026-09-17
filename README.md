@@ -1,1 +1,30 @@
-# railhub_privacy
+# Datenschutzerklärung
+
+<h1>Datenschutzerklärung für die Android-App "RailHub"</h1>
+
+<p><strong>Entwickler & Ansprechpartner:</strong><br>
+Jeremias Hubbauer<br>
+E-Mail: <em>railhub-app@gmail.com</em></p>
+
+<h2>1. Allgemeine Hinweise & Grundsatz</h2>
+<p>Der Schutz Ihrer persönlichen Daten ist beim Einsatz der App <strong>RailHub</strong> ein wichtiges Anliegen. Diese Anwendung wurde nach dem Prinzip der Datenminimierung entwickelt und funktioniert vollständig ohne die Erhebung, Speicherung oder Übertragung personenbezogener Nutzer- oder Gerätedaten.</p>
+
+<h2>2. Erhebung, Nutzung und Weitergabe personenbezogener Daten</h2>
+<p>Die App <strong>RailHub</strong> erhebt, verwendet, speichert und teilt keinerlei personenbezogene oder vertrauliche Nutzerdaten (wie z. B. Name, Standort, Kontaktdaten, Fotos, Gerätekennungen oder Finanzdaten). Es werden keine Daten an den Entwickler oder an Dritte weitergegeben.</p>
+
+<h2>3. Nutzung von Netzwerkverbindungen und Berechtigungen</h2>
+<p>Die App benötigt Zugriff auf das lokale Netzwerk (WLAN / IP-Schnittstellen) ausschließlich zur Steuerung von Modellbahnanlagen (z. B. über das Z21-Protokoll) innerhalb Ihres lokalen Heimnetzwerks. Es wird zu keinem Zeitpunkt eine Verbindung zu externen Servern über das Internet hergestellt, und es werden keine Daten über das Netzwerk nach außen übertragen.</p>
+
+<h2>4. Nutzerkonten und Löschung von Daten</h2>
+<p>Die App <strong>RailHub</strong> erfordert <strong>keine Registrierung</strong> und <strong>kein Nutzerkonto</strong>. Da keine Nutzerkonten existieren und keine personenbezogenen Daten auf externen Servern gespeichert werden, ist eine gesonderte Funktion zur Kontolöschung oder Datenlöschung nicht erforderlich. Alle von Ihnen in der App vorgenommenen Einstellungen verbleiben ausschließlich lokal auf Ihrem Endgerät und werden beim Deinstallieren der App vollständig entfernt.</p>
+
+<h2>5. Identifikatoren (App-Set-ID, Werbe-IDs) und Tracking</h2>
+<p>Diese App nutzt keine Werbe-IDs (z. B. AAID), keine App-Set-IDs, keine Analysedienste (wie Google Analytics oder Firebase) und keine Tracking-Software. Es wird keine Werbung geschaltet.</p>
+
+<h2>6. Sicherheitsverfahren und Datenaufbewahrung</h2>
+<p>Da die App keinerlei Nutzerdaten über das Internet überträgt oder auf externen Servern speichert, entfallen externe Aufbewahrungsfristen. Sämtliche App-Konfigurationen verbleiben in der gesicherten Anwendungsumgebung Ihres Android-Geräts.</p>
+
+<h2>7. Ihre Rechte</h2>
+<p>Sie haben das Recht auf Auskunft, Berichtigung oder Löschung Ihrer personenbezogenen Daten. Da die App <strong>RailHub</strong> jedoch keinerlei personenbezogene Daten erhebt oder verarbeitet, liegen beim Entwickler keine Daten vor, die eingesehen, geändert oder gelöscht werden könnten.</p>
+
+<p><em>Stand: September 2026</em></p>
